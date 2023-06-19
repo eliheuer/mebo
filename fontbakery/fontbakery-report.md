@@ -824,7 +824,7 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
-* 🔥 **FAIL** Current Font Bakery version is 0.8.11, while a newer 0.8.12 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
+* 🔥 **FAIL** Current Font Bakery version is 0.8.11, while a newer 0.8.13 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
 </div></details><details><summary>🔥 <b>FAIL:</b> Font contains glyphs for whitespace characters? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_glyphs">com.google.fonts/check/whitespace_glyphs</a>)</summary><div>
 
 
@@ -1010,41 +1010,21 @@ The following glyphs do not have the recommended number of contours:
 
 * ⚠ **WARN** The following glyphs have on-curve points which have potentially incorrect y coordinates:
 
-	* H (U+0048): X=240.0,Y=2.0 (should be at baseline 0?) [code: found-misalignments]
+	* J (U+004A): X=54.5,Y=-1.5 (should be at baseline 0?) [code: found-misalignments]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have segments which seem very short:
 
-	* A (U+0041) contains a short segment B<<251.0,23.0>-<251.0,13.0>-<245.0,6.5>>
+	* K (U+004B) contains a short segment B<<203.5,462.0>-<209.0,449.0>-<220.0,449.0>>
 
-	* H (U+0048) contains a short segment B<<81.0,0.0>-<75.0,0.0>-<69.5,3.5>>
+	* K (U+004B) contains a short segment B<<235.5,57.0>-<241.0,45.0>-<241.0,35.0>>
 
-	* H (U+0048) contains a short segment B<<69.5,3.5>-<64.0,7.0>-<60.0,22.0>>
+	* M (U+004D) contains a short segment B<<383.0,597.0>-<390.0,584.0>-<398.0,573.5>>
 
-	* H (U+0048) contains a short segment B<<245.0,800.0>-<259.0,800.0>-<266.5,797.5>>
+	* M (U+004D) contains a short segment B<<398.0,573.5>-<406.0,563.0>-<417.0,563.0>>
 
-	* H (U+0048) contains a short segment B<<266.5,797.5>-<274.0,795.0>-<274.0,784.0>>
-
-	* H (U+0048) contains a short segment B<<215.0,503.0>-<222.0,489.0>-<232.0,489.0>>
-
-	* H (U+0048) contains a short segment B<<393.0,780.0>-<393.0,793.0>-<401.5,796.5>>
-
-	* H (U+0048) contains a short segment B<<621.0,9.0>-<615.0,0.0>-<607.0,0.0>>
-
-	* H (U+0048) contains a short segment B<<441.0,4.5>-<432.0,9.0>-<432.0,22.0>>
-
-	* H (U+0048) contains a short segment B<<248.0,18.0>-<248.0,4.0>-<240.0,2.0>>
-
-	* H (U+0048) contains a short segment B<<240.0,2.0>-<232.0,0.0>-<217.0,0.0>>
-
-	* K (U+004B) contains a short segment B<<202.0,462.0>-<206.0,449.0>-<214.0,449.0>>
-
-	* K (U+004B) contains a short segment B<<569.0,794.5>-<576.0,789.0>-<576.0,778.0>>
-
-	* K (U+004B) contains a short segment B<<444.0,0.0>-<431.0,0.0>-<424.0,8.5>>
-
-	* N (U+004E) contains a short segment B<<478.5,399.0>-<485.0,389.0>-<492.0,389.0>>
+	* M (U+004D) contains a short segment B<<417.0,563.0>-<429.0,563.0>-<437.5,574.0>>
 
 	* T (U+0054) contains a short segment B<<234.5,669.0>-<228.0,675.0>-<219.0,675.0>>
 
