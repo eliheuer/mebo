@@ -867,7 +867,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: nine	Contours detected: 0	Expected: 1 or 2
 
-	- Glyph name: a	Contours detected: 0	Expected: 2
+	- Glyph name: a	Contours detected: 1	Expected: 2
 
 	- Glyph name: b	Contours detected: 0	Expected: 2
 
@@ -919,7 +919,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: z	Contours detected: 0	Expected: 1
 
-	- Glyph name: a	Contours detected: 0	Expected: 2
+	- Glyph name: a	Contours detected: 1	Expected: 2
 
 	- Glyph name: b	Contours detected: 0	Expected: 2
 
