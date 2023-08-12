@@ -1,9 +1,10 @@
 {
-.appVersion = "3150";
+.appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
 "REMIXING IS THE NATURAL MODE OF ART MAKING ONLINE  ",
-" ABCDEIFGHIJKLMNOPQRSTUVWXYZ"
+" ABCDEIFGHIJKLMNOPQRSTUVWXYZ",
+a
 );
 date = "2023-05-28 02:44:09 +0000";
 familyName = Mebo;
@@ -2721,9 +2722,21 @@ unicode = 90;
 },
 {
 glyphname = a;
+lastChange = "2023-08-12 02:10:31 +0000";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,173,l),
+(424,173,l),
+(424,500,l),
+(212,500,l)
+);
+}
+);
 width = 600;
 }
 );
