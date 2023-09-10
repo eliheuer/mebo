@@ -1,0 +1,76 @@
+{
+.appVersion = "3217";
+.formatVersion = 3;
+date = "2023-05-28 02:44:09 +0000";
+familyName = Mebo;
+fontMaster = (
+{
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 840;
+},
+{
+over = 16;
+pos = 800;
+},
+{
+over = 16;
+pos = 500;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -200;
+},
+{
+over = -16;
+}
+);
+name = Regular;
+}
+);
+kerningLTR = {
+m01 = {
+"@MMK_L_E" = {
+"@MMK_R_I" = -30;
+};
+"@MMK_L_F" = {
+"@MMK_R_G" = -80;
+};
+"@MMK_L_P" = {
+"@MMK_R_Q" = -40;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+settings = {
+keyboardIncrementBig = 8;
+keyboardIncrementHuge = 16;
+};
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}
