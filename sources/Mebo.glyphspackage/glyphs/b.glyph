@@ -3,6 +3,17 @@ glyphname = b;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,173,l),
+(424,173,l),
+(424,500,l),
+(212,500,l)
+);
+}
+);
 width = 600;
 }
 );
