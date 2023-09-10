@@ -46,6 +46,7 @@ glyphsLib==6.3.0
 h11==0.14.0
 hyperglot==0.4.5
 idna==3.4
+importlib-resources==6.0.1
 Jinja2==3.1.2
 kurbopy==0.9.0
 lxml==4.9.3
@@ -55,6 +56,7 @@ mdurl==0.1.2
 munkres==1.1.4
 nanoemoji==0.15.1
 ninja==1.11.1
+numpy==1.24.4
 openstep-plist==0.3.0.post1
 opentype-sanitizer==9.1.0
 opentypespec==1.9.1
@@ -104,6 +106,7 @@ tqdm==4.66.1
 trio==0.22.2
 trio-websocket==0.10.3
 ttfautohint-py==0.5.1
+typing_extensions==4.7.1
 ufo2ft==2.33.4
 ufoLib2==0.16.0
 ufolint==1.2.0
@@ -116,4 +119,5 @@ vttLib==0.12.0
 wrapt==1.15.0
 wsproto==1.2.0
 youseedee==0.3.0
+zipp==3.16.2
 zopfli==0.2.2
